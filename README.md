@@ -1,5 +1,5 @@
 # Graph Homomorphism Ideals (Macaulay2)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20044872.svg)](https://doi.org/10.10.5281/zenodo.20044872)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20044872.svg)](https://doi.org/10.5281/zenodo.20044872)
 
 This repository provides Macaulay2 code to compute graph and digraph homomorphisms and to construct the corresponding homomorphism ideals.
 
